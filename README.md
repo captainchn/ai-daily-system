@@ -23,6 +23,7 @@
 - [OpenClaw 操作手册](docs/architecture/openclaw-setup-v3.0.md)
 - [参考信源（公开版）](docs/sources/reference-sources-v3.0.2.md)
 - [最小可运行 Scaffold](scaffold/README.md)
+- [输出效果展示](docs/showcase/output-examples-v3.0.2.md)
 
 ## 快速理解
 

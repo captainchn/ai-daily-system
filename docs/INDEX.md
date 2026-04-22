@@ -12,6 +12,10 @@
 
 - [参考信源（公开版）v3.0.2](sources/reference-sources-v3.0.2.md)
 
+## 效果展示
+
+- [输出效果展示 v3.0.2](showcase/output-examples-v3.0.2.md)
+
 ## 可运行示例
 
 - [最小可运行 Scaffold](../scaffold/README.md)
