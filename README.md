@@ -17,9 +17,18 @@
 ## 文档入口
 
 - [文档索引](docs/INDEX.md)
+- [对外说明：这套系统是怎么搭的](docs/architecture/public-build-thinking-v3.0.2.md)
 - [整体搭建方案](docs/architecture/system-overview-v3.0.2.md)
 - [Hermes 操作手册](docs/architecture/hermes-setup-v3.0.2.md)
 - [OpenClaw 操作手册](docs/architecture/openclaw-setup-v3.0.md)
+
+## 快速理解
+
+如果你只想先快速理解这套系统，建议按这个顺序看：
+
+1. [对外说明：这套系统是怎么搭的](docs/architecture/public-build-thinking-v3.0.2.md)
+2. [整体搭建方案](docs/architecture/system-overview-v3.0.2.md)
+3. [文档索引](docs/INDEX.md)
 
 ## 适用对象
 
